@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nkkp/static/css/main.e6c13ad2.css",
+    "main.js": "/nkkp/static/js/main.aff6227b.js",
+    "static/js/453.56c5b870.chunk.js": "/nkkp/static/js/453.56c5b870.chunk.js",
+    "index.html": "/nkkp/index.html",
+    "main.e6c13ad2.css.map": "/nkkp/static/css/main.e6c13ad2.css.map",
+    "main.aff6227b.js.map": "/nkkp/static/js/main.aff6227b.js.map",
+    "453.56c5b870.chunk.js.map": "/nkkp/static/js/453.56c5b870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aff6227b.js"
+  ]
+}
